@@ -18,6 +18,4 @@ The survey takes less than 5 minutes to complete and provides valuable data for 
 - Provides insights into how Copilot is being used across different teams
 - Identifies opportunities for improving adoption and usage
 
-For more detailed information about our GitHub Copilot ROI tracking and metrics, please see the [copilot-metrics repository](../copilot-metrics).
-
 Thank you for your participation.
